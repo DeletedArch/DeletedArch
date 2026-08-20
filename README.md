@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/raiden.gif" alt="Raiden GIF" width="100%"/>
+<img src="./images/raiden.gif" alt="Raiden GIF" width="60%" height="40%"/>
 
 <br/><br/>
 
