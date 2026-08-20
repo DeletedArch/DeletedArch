@@ -54,7 +54,7 @@
 - **Juggle & Launch Kinematics**: Directional launch vectors, wall-bounces, and custom juggle decay gravity.
 
 #### <img src="./images/icons/physics.svg" width="18" height="18" valign="middle" /> Physics & Motion Systems
-- **Kinematic Character Controllers**: Custom non-capsule, ray/sweep-based movement solvers for precise collision handling.
+- **Kinematic Character Controllers**: Custom, ray/sweep-based movement solvers for precise collision handling.
 - **Momentum & Air-Control Curves**: Responsive acceleration, air braking, and velocity preservation through state changes.
 - **Impact Dynamics & Hitstop**: Micro-frame freezes, screen trauma triggers, and directional impulse resolution.
 - **Animation Blending & Weight**: Motion-matching integration and weight simulation for heavy impacts.
